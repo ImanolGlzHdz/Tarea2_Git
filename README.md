@@ -1,6 +1,8 @@
 # Tarea2_Git
 Tarea de Discos duros SAS, SATA, SSD, M.2   y  que es una memoria NAN
+
 Discos duros SATA
+
 -significa Serial ATA
 Estos discos no van conectados a zócalos IDE, por lo que no tienen las limitaciones inherentes a dicho sistema (es decir, dos dispositivos por conector, configurados como Master y Slave o como Cable Select), sino que van conectados directamente a un puerto SATA (Serial ATA).
 En cuanto a los tipos de SATA existentes, son los siguientes:
@@ -11,13 +13,18 @@ En cuanto a los tipos de SATA existentes, son los siguientes:
 -SATA 6Gb
 
 Discos Duros SAS
+
 (Serial Attached SCSI o SAS). SAS es una tecnología de bus de computadoras diseñada principalmente para transferencia de datos desde o hacia dispositivos de almacenamiento (como discos duros, unidades de CD-ROM, etc.).
 
 
 Discos duros SSD
+
 La unidad de estado sólido, SSD (acrónimo inglés de solid-state drive) es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales.
 
+
+
 SSD M2
+
 tarjeta de memoria denominada M2 (Memory Stick Micro).
 Los discos SSD M.2 han venido a solucionar el problema del tamaño y además están desplazando al disco de estado sólido tradicional por sus mayores prestaciones y velocidad. Las memorias o discos SSD M.2 son unos discos SSD pero en los que el factor forma ha cambiado y por un formato mucho más pequeño.Cuanto mayor sea su longitud de una memoria SSD M.2 mayor número de chips podrán alojar y por lo tanto mayor capacidad de almacenamiento tendrá. Así pues, las memorias de 30 y 42 mm de largo admiten de 1 a 3 chips de memoria NAND mientras que las de 80 y 110 mm de longitud admiten hasta 8 chips de memoria NAND.Otro aspecto a tener en cuenta en un disco SSD M.2 es su velocidad de transferencia. Aquí es importantísimo el tipo de conector que utilice. Actualmente los discos de estado sólido utilizan dos tipos de interfaz de almacenamiento: SATA 3.0 o PCIe (PCI-Express).
 
