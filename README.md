@@ -17,6 +17,12 @@ Discos Duros SAS
 Discos duros SSD
 La unidad de estado sólido, SSD (acrónimo inglés de solid-state drive) es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales.
 
+SSD M2
+tarjeta de memoria denominada M2 (Memory Stick Micro).
+Los discos SSD M.2 han venido a solucionar el problema del tamaño y además están desplazando al disco de estado sólido tradicional por sus mayores prestaciones y velocidad. Las memorias o discos SSD M.2 son unos discos SSD pero en los que el factor forma ha cambiado y por un formato mucho más pequeño.Cuanto mayor sea su longitud de una memoria SSD M.2 mayor número de chips podrán alojar y por lo tanto mayor capacidad de almacenamiento tendrá. Así pues, las memorias de 30 y 42 mm de largo admiten de 1 a 3 chips de memoria NAND mientras que las de 80 y 110 mm de longitud admiten hasta 8 chips de memoria NAND.Otro aspecto a tener en cuenta en un disco SSD M.2 es su velocidad de transferencia. Aquí es importantísimo el tipo de conector que utilice. Actualmente los discos de estado sólido utilizan dos tipos de interfaz de almacenamiento: SATA 3.0 o PCIe (PCI-Express).
+
+Los SSD M.2 SATA utilizan el mismo controlador que sus hermanos SSD de 2,5″, mientras que los SSD M.2 PCIe utilizan unos controladores específicamente diseñados para este tipo de conexión. Esto debes tenerlo muy en cuenta porque es muy importante.
+Los discos SSD se han topado con una barrera infranqueable y es que el conector SATA III estándar admite una velocidad máxima de transferencia de 600MB/sg. Con las velocidades que pueden alcanzar los actuales discos SSD el conector SATA es un cuello de botella muy grande. Para salvar esta limitación se optó por utilizar conexiones PCIe.
 
 
 
